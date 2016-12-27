@@ -1,0 +1,15 @@
+{
+  "name": "hyper-seoul256-light",
+  "version": "1.0.0",
+  "description": "Hyperterm theme based on seoul256.vim.",
+  "main": "index.js",
+  "repository": "git+https://github.com/arjunblj/hyper-seoul256-light.git",
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme",
+    "colors",
+    "seoul256"
+  ],
+  "author": "Arjun Balaji",
+  "license": "MIT"
+}
